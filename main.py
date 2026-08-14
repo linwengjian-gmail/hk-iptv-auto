@@ -51,7 +51,7 @@ SOURCE_URLS = [
 
 # 2. 包含關鍵字 (必須包含這些字才抓取)
 KEYWORDS = [
-    "ViuTV", "HOY", "RTHK", "Jade", "Pearl", "J2", "J5", "Now", 
+    "ViuTV", "HOY", "RTHK", "Jade", "Pearl", "J2", "J5", "Now", "NOW",
     "无线", "無線", "有线", "有線", "翡翠", "明珠", "港台", 
 ]
 
